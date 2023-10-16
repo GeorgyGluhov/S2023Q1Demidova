@@ -1,5 +1,5 @@
 const number1 = 85
-const number2 = 646
+const number2 = 64
 if (number1 > number2) {
     console.log(`Введенное число  ${number1} больше числа  ${number2}`)
 }
